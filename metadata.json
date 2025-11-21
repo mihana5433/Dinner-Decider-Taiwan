@@ -1,0 +1,7 @@
+{
+  "name": "Dinner Decider Taiwan",
+  "description": "A smart dinner selector for Taiwanese food, featuring random picks and AI-powered recommendations with local map search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
